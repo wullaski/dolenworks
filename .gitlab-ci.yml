@@ -23,7 +23,7 @@ before_script:
 pages:
   stage: pages
   script:
-    - npx @11ty/eleventy --input=. --output=public
+    - npx @11ty/eleventy --input=. --output=public --formats=html,gif,jpg,pdf
 
   artifacts:
     paths:
