@@ -268,7 +268,6 @@ a[href].project-tag:focus {
 .projectlist-item img{
     margin: 0 0 2rem;
     border: 1px solid var(--lightgray);
-    max-width: 380px;
     display: block;
 }
 
@@ -354,4 +353,13 @@ main time{
     width: 200px;
     padding-top: 90px;
     height: 0;
+}
+
+footer{
+    padding: 1rem 3rem;
+    border-top: 1px dashed var(--lightgray);
+}
+
+footer ul{
+    padding: 0 .8rem;
 }
