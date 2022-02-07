@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 1
 ---
 {% set maxProjects = collections.projects.length | min(3) %}
-<h1>Latest {% if maxProjects == 1 %}Project{% else %}{{ maxProjects }} Projects{% endif %}</h1>
+<h1>Latest {% if maxProjects == 1 %}Project{% else %}Projects{% endif %}</h1>
 
 {% set projectslist = collections.projects | head(-3) %}
 {% set projectslistCounter = collections.projects | length %}

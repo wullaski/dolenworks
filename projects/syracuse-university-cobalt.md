@@ -9,3 +9,5 @@ image_alt: A screenshot of the homepage.
 site_link: https://hr.syr.edu
 ---
 This theme is provided for organizations within Syracuse University to use. I fix bugs, add features and worked to make it WCAG 2.0 AA compliant.
+
+<a href="{{ site_link | url }}">Check it out!</a>
