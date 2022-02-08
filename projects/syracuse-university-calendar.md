@@ -5,7 +5,7 @@ date: 2020-08-01
 tags:
   ['WordPress', 'PHP', 'REST']
 layout: layouts/project.njk
-image: img/screens/calendar.jpg
+image: /img/screens/calendar.jpg
 image_alt: A screenshot of the events page.
 site_link: https://calendar.syracuse.edu/events
 ---

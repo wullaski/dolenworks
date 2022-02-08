@@ -5,7 +5,7 @@ date: 2018-06-01
 tags:
   ['WordPress', 'PHP']
 layout: layouts/project.njk
-image: img/screens/su-1.jpg
+image: /img/screens/su-1.jpg
 image_alt: A screenshot of the homepage.
 site_link: https://www.syracuse.edu
 ---

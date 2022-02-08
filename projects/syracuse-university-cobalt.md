@@ -4,7 +4,7 @@ description: A custom WordPress theme that is used by numerous groups accross ca
 date: 2018-03-04
 tags: ['WordPress', 'PHP']
 layout: layouts/project.njk
-image: img/screens/su-3.jpg
+image: /img/screens/su-3.jpg
 image_alt: A screenshot of the homepage.
 site_link: https://hr.syr.edu
 ---
