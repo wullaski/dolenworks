@@ -364,6 +364,10 @@ footer ul{
     padding: 0 .8rem;
 }
 
+footer ul li {
+    margin-bottom: .4rem;
+}
+
 .skip-link {
     right: 3rem;
     top: 0;
@@ -375,3 +379,4 @@ footer ul{
 .skip-link:focus-within {
     transform: translateY(0%);
 }
+
