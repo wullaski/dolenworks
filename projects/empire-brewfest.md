@@ -1,5 +1,5 @@
 ---
-title: Empire Brewfest.
+title: Empire Brewfest
 description: A festival site that I wrote a custom CMS for with PHP and MYSQL.
 date: 2011-08-12
 tags: ['PHP', 'MYSQL']

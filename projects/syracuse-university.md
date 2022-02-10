@@ -1,5 +1,5 @@
 ---
-title: Syracuse University.
+title: Syracuse University
 description: The main marketing website for Syracuse University.
 date: 2018-06-01
 tags:
