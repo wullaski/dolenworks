@@ -10,4 +10,6 @@ image_alt: A screenshot of the events page.
 site_link: https://calendar.syracuse.edu/events
 ---
 
-I built <a href="{{ site_link | url }}">this custom theme</a> starting using the blank slate theme in combination with The Events Calendar plugins. I later added a custom REST API with read and write capability.
+I built a custom theme starting using the blank slate theme in combination with The Events Calendar plugins. I later added a custom REST API with read and write capability.
+
+<a href="{{ site_link | url }}">Visit calendar.syracuse.edu</a>

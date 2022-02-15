@@ -6,6 +6,9 @@ tags: ['WordPress', 'PHP', 'JavaScript']
 layout: layouts/project.njk
 image: /img/screens/west1.jpg
 image_alt: A screenshot with events and a picture of houses.
+site_link: https://westcottsyr.com/
 ---
 This is a website I built as a freelance web developer. I was given photoshop files and built a custom WordPress theme. The theme featured custom post types and fields to handle a bunch of dynamic content. It's a full featured website with events and tours and tons of information about the Westcott Neighborhood.
+
+<a href="{{ site_link | url }}">Visit westcottsyr.com</a>
 

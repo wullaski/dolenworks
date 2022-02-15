@@ -8,4 +8,6 @@ image: /img/screens/su-wagtail-1.jpg
 image_alt: A screenshot of the homepage.
 site_link: https://www.syracuse.edu
 ---
-The team was tasked with migrating the site to Wagtail. One of the things I worked on early on was modifying the WordPress API to output all of the data in our custom WordPress blocks. I assisted with python scripts to migrate data from the WordPress API and recreated in Wagtail all the blocks we had in WordPress. We've since added more custom blocks and with them added much more content to the <a href="{{ site_link | url }}">homepage</a>.
+The team was tasked with migrating the site to Wagtail. One of the things I worked on early on was modifying the WordPress API to output all of the data in our custom WordPress blocks. I assisted with python scripts to migrate data from the WordPress API and recreated in Wagtail all the blocks we had in WordPress. We've since added more custom blocks and with them added much more content to the homepage.
+
+<a href="{{ site_link | url }}">Visit syracuse.edu</a>
