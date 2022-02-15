@@ -4,7 +4,7 @@ description: A complete migration to Wagtail CMS from WordPress.
 date: 2021-08-12
 tags: ['Python', 'Django', 'Wagtail']
 layout: layouts/project.njk
-image: /img/screens/su-wagtial-1.jpg
+image: /img/screens/su-wagtail-1.jpg
 image_alt: A screenshot of the homepage.
 site_link: https://www.syracuse.edu
 ---
